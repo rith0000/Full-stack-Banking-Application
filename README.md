@@ -40,4 +40,7 @@ To run the application locally, follow these steps:
     mvnw.cmd spring-boot:run
 
 
-4.Access the application: Open your browser and go to http://localhost:8080.![DALL·E 2024-10-14 15 14 49 - A detailed flowchart representing the working of a banking application using Java Spring Boot  The flowchart includes the following steps_ (1) User cr](https://github.com/user-attachments/assets/ccaeebc1-aee9-494d-b6b9-460d2a13d122)
+4.Access the application: Open your browser and go to http://localhost:8080.
+
+
+![DALL·E 2024-10-14 15 14 49 - A detailed flowchart representing the working of a banking application using Java Spring Boot  The flowchart includes the following steps_ (1) User cr](https://github.com/user-attachments/assets/ccaeebc1-aee9-494d-b6b9-460d2a13d122)
